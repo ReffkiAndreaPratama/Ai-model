@@ -1,5 +1,5 @@
 # Ai-model
-Berikut adalah **penjelasan lengkap dari semua kode** yang bisa langsung kamu salin ke file `README.md` untuk GitHub. Ini sudah disusun rapi berdasarkan struktur topik presentasi kamu:
+Berikut adalah penjelasan lengkap dari semua kode yang sudah disusun rapi berdasarkan struktur topik presentasi kamu:
 
 ---
 
@@ -123,12 +123,10 @@ Gambar-gambar berikut dapat digunakan dalam presentasi:
 
 ## **Dependencies**
 
-Pastikan Anda menginstal pustaka berikut:
+Pastikan menginstal pustaka berikut:
 
 ```bash
 pip install numpy torch scikit-learn matplotlib syft==0.2.9
 ```
 
 ---
-
-Kalau kamu ingin, saya juga bisa bantu buatkan versi `README.md` langsung sebagai file. Mau?

@@ -1,5 +1,5 @@
 # Ai-model
-Berikut adalah penjelasan lengkap dari semua kode yang sudah disusun rapi berdasarkan struktur topik presentasi kamu:
+Berikut adalah penjelasan lengkap dari semua kode yang sudah disusun rapi berdasarkan struktur topik presentasi:
 
 ---
 
